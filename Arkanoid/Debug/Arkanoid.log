@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\projects\arkanoid\arkanoid\main.cpp(59): warning C4305: аргумент: усечение из "double" в "GLfloat"
+d:\projects\arkanoid\arkanoid\main.cpp(94): warning C4305: аргумент: усечение из "double" в "GLfloat"
+d:\projects\arkanoid\arkanoid\main.cpp(102): warning C4305: +=: усечение из "double" в "float"
+d:\projects\arkanoid\arkanoid\main.cpp(104): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+  Arkanoid.vcxproj -> D:\Projects\Arkanoid\Debug\Arkanoid.exe
